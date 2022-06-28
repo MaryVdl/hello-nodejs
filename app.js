@@ -1,11 +1,3 @@
-var express = require('express');
-app = express();
+console.log("Hello World!\n");
 
-app.get('/', function (req, res) {
-  res.send('Hello World desde Mi primera subida\n');
-});
-
-
-app.listen(8080, function () {
-  console.log('Example app listening on port 8080!');
-});
+console.log("Mi primer proyecto OpenShift ")
