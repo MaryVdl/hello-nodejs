@@ -1,3 +1,1 @@
-console.log("Hello World!\n");
-
-console.log("Mi primer proyecto OpenShift ")
+console.log("Hello World!\n Mi primer proyecto OpenShift");
