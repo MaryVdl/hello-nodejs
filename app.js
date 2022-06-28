@@ -1,3 +1,3 @@
 console.log("Hello World!\n");
 
-console.log("Nada que ver aqui")
+console.log("Mi primer proyecto OpenShift ")
